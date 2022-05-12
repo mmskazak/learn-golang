@@ -1,6 +1,6 @@
 # learn-golang
 
-Типы в golang
+### Типы в golang ###
 
 int8, int16, int32, int64
 
