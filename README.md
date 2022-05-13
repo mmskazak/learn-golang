@@ -106,6 +106,19 @@ r := make(s,10)
 
 ### Функции ###
 
+func (t Type) nameFunction(s string, i int) (string, error)  
+{  
+  //какая-то логика
+  return s,e
+}
+
+func (t Type) nameFunction(s string, i int) (s string,e error)  
+{  
+  //какая-то логика
+  return
+}
+
+//все парамтеры, в том числе и тип к торому привязывается функция могут пережаваться по ссылке, иначе будет создаваться копия значения
 
 
 
